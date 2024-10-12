@@ -1,7 +1,7 @@
 # Hey, I'm Shiva 👋
 
 ## About Me
-I'm an **Machine Learning Engineer** and **Researcher** with a passion for teaching machines—and humans—how to learn. I completed my **MSc in Statistical Science** at the **University of Oxford**, where I focused on **Reinforcement learning** and **Policy gradient methods** under the supervision of Jakob Foerster. Prior to that, I earned a **First-Class Honours degree** in **Data Science** from the **University of Warwick**, working with Long Tran-Thanh on **Multi-armed bandits** and **Algorithmic game theory**.
+I'm a **Machine Learning Engineer** and **Researcher** with a passion for teaching machines—and humans—how to learn. I completed my **MSc in Statistical Science** at the **University of Oxford**, where I focused on **Reinforcement learning** and **Policy gradient methods** under the supervision of Jakob Foerster. Prior to that, I earned a **First-Class Honours degree** in **Data Science** from the **University of Warwick**, working with Long Tran-Thanh on **Multi-armed bandits** and **Algorithmic game theory**.
 
 Currently, I'm working at **Grasp** in **London**, where I develop large-scale knowledge graphs and design agent-based recommendation systems using **Large language models**. My work involves leveraging **Generative AI** to solve difficult problems and enhance learning experiences.
 
